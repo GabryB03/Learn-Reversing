@@ -23,3 +23,4 @@
 * [Some thoughts on making a CrackMe](https://dr4k0nia.github.io/dotnet/reverse-engineering/2022/01/25/Some-thoughts-on-making-a-crackme.html)
 * [VM based obfuscation](https://synthesis.to/2021/10/21/vm_based_obfuscation.html)
 * [Control Flow Analysis](http://web.cse.ohio-state.edu/presto/pubs/tr12.pdf)
+* [Exploit DB (Database)](https://www.exploit-db.com/)
